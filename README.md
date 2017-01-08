@@ -1,9 +1,16 @@
 # reshade-presets
-My ReShade 3 presets
+My ReShade 3 presets (and shaders/techniques used)
 * ArcheAge
 * Bordelands 2
 * Factorio
+ * Curves,
+ * HDR,
+ * Levels,
+ * LumaSharpen,
+ * SMAA,
+ * Tonemap
 * Grid 2
+
 ...
 
 Todo
