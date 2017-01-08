@@ -22,7 +22,11 @@
  * LiftGammaGain,
  * Tonemap,
  * Curves
-
+* Project CARS (based on "Project Cars - SS V1.1" https://sfx.thelazy.net/games/preset/3609/ **but Grid 2 preset works also very nicely**)
+ * LumaSharpen,
+ * LiftGammaGain,
+ * Vibrance,
+ * Curves
 ...
 
 ## Hints
