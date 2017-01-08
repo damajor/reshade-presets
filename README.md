@@ -15,6 +15,12 @@ My ReShade 3 presets (and shaders/techniques used)
  * SMAA,
  * Tonemap
 * Grid 2
+ * SMAA,
+ * LumaSharpen,
+ * DPX,
+ * LiftGammaGain,
+ * Tonemap,
+ * Curves
 
 ...
 
