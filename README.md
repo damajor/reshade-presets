@@ -1,20 +1,21 @@
 # reshade-presets
-## My ReShade 3 presets (and shaders/techniques used)
-* ArcheAge
+## My ReShade 3 presets inspired by others and a bit tuned by me :) (and shaders/techniques used)
+* ArcheAge (based on "Realistic Preset Archeage" https://sfx.thelazy.net/games/preset/2251/)
  * BloomAndLensFlares,
  * LumaSharpen,
  * Tonemap,
  * Vibrance,
  * Curves
+* Battlefleet Gothic Armada (I like the ArcheAge preset, but the others give good results)
 * Bordelands 2
-* Factorio
+* Factorio (based on "Ion´s Preset" https://sfx.thelazy.net/games/preset/5284/)
  * Curves,
  * HDR,
  * Levels,
  * LumaSharpen,
  * SMAA,
  * Tonemap
-* Grid 2
+* Grid 2 (based on "Manoffaith_ GRID 2_UPDATED v1.1" https://sfx.thelazy.net/games/preset/495/)
  * SMAA,
  * LumaSharpen,
  * DPX,
